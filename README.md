@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computer Science, Blockchain, Ethereum, Solidity
 - 🌱 I’m currently learning Smart contract security
 - 💞️ I’m looking to collaborate on web3 projects
-- 📫 How to reach me : mike.louiset@gmail.com
+
 
 <!---
 Universe-art/Universe-art is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
